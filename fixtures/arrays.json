@@ -1,0 +1,5 @@
+{
+  "@context": "http://schema.org/",
+  "@type": "Product",
+  "url": "http://www.example.com/simple-schema-org-schema.json"
+}
